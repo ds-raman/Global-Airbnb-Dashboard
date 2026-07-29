@@ -12,7 +12,7 @@ This project demonstrates practical data analytics skills including data cleanin
 
 ### Overview Dashboard
 
-![Overview Dashboard](imagees/Airbnb_Overview.png)
+![Overview Dashboard](images/Airbnb_Overview.png)
 
 ### Ratings Analysis
 
@@ -20,7 +20,7 @@ This project demonstrates practical data analytics skills including data cleanin
 
 ### Reviews Analysis
 
-![Reviews Analysis](images/Airbnb_Review.ong)
+![Reviews Analysis](images/Airbnb_Review.png)
 
 ---
 
