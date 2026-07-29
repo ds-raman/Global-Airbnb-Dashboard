@@ -12,7 +12,7 @@ This project demonstrates practical data analytics skills including data cleanin
 
 ### Overview Dashboard
 
-![Overview Dashboard](images/overview-dashboard.png)
+![Overview Dashboard](https://github.com/ds-raman/Global-Airbnb-Dashboard/blob/main/images/Airbnb_Overview.png)
 
 ### Ratings Analysis
 
